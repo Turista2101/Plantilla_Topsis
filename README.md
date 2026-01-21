@@ -35,7 +35,7 @@ Se utiliza para:
 
 ---
 
-## 📝 Hoja 1: ENTRADA
+## Hoja 1: ENTRADA
 
 ### Función
 Permite ingresar los **datos base del problema de decisión**.
